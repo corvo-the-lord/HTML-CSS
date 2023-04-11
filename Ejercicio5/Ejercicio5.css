@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor{
+    
+    display:flexbox;
+    flex-wrap: wrap;
+    align-content:space-around;
+
+}
+
+.imagen-galeria{
+    width: 300px;
+}
