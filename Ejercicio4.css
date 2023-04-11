@@ -1,0 +1,15 @@
+.elementos{
+padding-left: 20px;    
+}
+
+.lista-desordenada{
+    background-color: rgb(223, 221, 192);
+    width: 80px;
+    font-family: cursive;
+}
+#elemento-1{
+    color: red;
+}
+.huevo{
+    font-size: 2rem;
+}
